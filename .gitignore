@@ -15,7 +15,6 @@ dist-ssr
 coverage
 *.local
 out
-.env
 target
 *.node
 
